@@ -1,1 +1,2 @@
-01programname.sh a script should print its name
+01programname.sh script should print its name
+02listfiles.sh list all *.ion files from current directory
