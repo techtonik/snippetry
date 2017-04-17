@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
-puts File.basename(__FILE__)
+program = File.basename(__FILE__)
+puts(program)
