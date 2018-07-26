@@ -1,1 +1,2 @@
 01tcplisten.go listen on tcp localhost:11111 for connection
+02get.go get first the string and response status from http://g.cn/robots.txt
